@@ -1,2 +1,2 @@
 # Torren
-Current project of the game Torren
+This is the Src for the project Torren prototype.
